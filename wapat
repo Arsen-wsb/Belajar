@@ -1,1 +1,39 @@
-{"InjectedLinkSenderId":"SenderId","LinkToSendMessageXPath":"//a[@id='SenderId']","QrCodeLoginXPath":"//div[@class='_3jid7']","HeaderContactsClassNameForInject":"_1R3Un","InvalidNumberButtonOkXpath":"//div[@class='_3NCh_']//div[@class='_1dwBj _3xWLK']","TextboxForTypingXpath":"//*[@id='main']//div[contains(@class,'_2_1wd')]","TextboxCaptionAttachmentXpath":"//div[@class='_3Z2cz']//div[contains(@class,'_2_1wd')]","PanelSideXpath":"//div[@id='pane-side']","SendButtonOnAttachmentXpath":"//span[@data-icon='send']","ClipForAttachmentXPath":"//span[@data-icon='clip']","InputFileForAttachmentXpath":"//input[@type='file']","UseHereXpath":"//div[@class='_3NCh_']//div[@class='_1dwBj _3xWLK']","ButtonReloadQrCodeXpath":{"Description":null,"Path":"//div[@class='_3DeCQ']","LinkImageDescription":null},"ContactNameOnHeaderChat":{"Description":"","Path":"//header[@class='_1-qgF']//div[@class='_2KQyF']","LinkImageDescription":null},"ChatBackground":{"Description":null,"Path":"//div[@class='_11liR']","LinkImageDescription":null},"ButtonRetryCannotReachPhone":{"Description":null,"Path":"//div[@class='_1gmLA']//div[@class='_1dwBj _3xWLK']","LinkImageDescription":null},"ClockInChat":{"Description":null,"Path":"//span[@data-icon='msg-time']","LinkImageDescription":null}}
+{
+    "InjectedLinkSenderId": "SenderId",
+    "LinkToSendMessageXPath": "//a[@id='SenderId']",
+    "QrCodeLoginXPath": "//div[@class='_2UwZ_']",
+    "HeaderContactsClassNameForInject": "_1R3Un",
+    "InvalidNumberButtonOkXpath": "//div[@class='_3NCh_']//div[@class='_1dwBj _3xWLK']",
+    "TextboxForTypingXpath": "//*[@id='main']//div[contains(@class,'_2_1wd')]",
+    "TextboxCaptionAttachmentXpath": "//div[@class='_3Z2cz']//div[contains(@class,'_2_1wd')]",
+    "PanelSideXpath": "//div[@id='pane-side']",
+    "SendButtonOnAttachmentXpath": "//span[@data-icon='send']",
+    "ClipForAttachmentXPath": "//span[@data-icon='clip']",
+    "InputFileForAttachmentXpath": "//input[@type='file']",
+    "UseHereXpath": "//div[@class='_3NCh_']//div[@class='_1dwBj _3xWLK']",
+    "ButtonReloadQrCodeXpath": {
+        "Description": null,
+        "Path": "//div[@class='_3DeCQ']",
+        "LinkImageDescription": null
+    },
+    "ContactNameOnHeaderChat": {
+        "Description": "",
+        "Path": "//header[@class='_1-qgF']//div[@class='_2KQyF']",
+        "LinkImageDescription": null
+    },
+    "ChatBackground": {
+        "Description": null,
+        "Path": "//div[@class='_11liR']",
+        "LinkImageDescription": null
+    },
+    "ButtonRetryCannotReachPhone": {
+        "Description": null,
+        "Path": "//div[@class='_1gmLA']//div[@class='_1dwBj _3xWLK']",
+        "LinkImageDescription": null
+    },
+    "ClockInChat": {
+        "Description": null,
+        "Path": "//span[@data-icon='msg-time']",
+        "LinkImageDescription": null
+    }
+}
